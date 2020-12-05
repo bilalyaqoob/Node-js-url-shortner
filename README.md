@@ -1,1 +1,1 @@
-# URL shortner application using NodeJs & MongoDB
+# URL shortner using NodeJs
